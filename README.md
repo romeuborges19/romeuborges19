@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Computer Science student studying Go, Javascript, Python and Django Framework. I'm currently a member of the Comais Lab at UFT, developing projects with educational purposes. 
+Computer Science student studying and working with Go, Javascript, Python and Django Framework. I'm currently a member of the Comais Lab at UFT, developing projects with educational purposes. 
 
 ## 💻 Tech Stack:
 
