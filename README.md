@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Computer Science student studying and working with Go, Javascript, Python and Django Framework. I'm currently a member of the Comais Lab at UFT, developing projects with educational purposes. I'm also working at AGTEC, developing solutions for public services with Go and Python.
+Computer Science student studying and working with Go, Javascript, Python and Django Framework. I'm currently a member of the Comais Lab at UFT, developing projects with educational purposes. I'm also working at CEIA (Center of Excelence in Artificial Inteligence), as a back-end developer.
 
 ## 💻 Tech Stack:
 
